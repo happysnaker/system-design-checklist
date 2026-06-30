@@ -254,7 +254,7 @@ If this repo saves you time, consider:
 
 If this checklist helped you structure an interview answer or a design doc, small support is especially appreciated.
 
-If you want lightweight async feedback on a public GitHub profile, README, design-doc page, or resume site, I also offer a paid review option on the [support page](https://happysnaker.github.io/support/).
+If you want lightweight async feedback on a public GitHub profile, README, design-doc page, or portfolio page, details are also available on the [support page](https://happysnaker.github.io/support/).
 
 ## License
 
