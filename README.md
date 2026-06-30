@@ -39,6 +39,12 @@ This repo aims for a better middle ground:
 - **useful in interviews and real service design**
 - **focused on tradeoffs, failure modes, and operations**
 
+## Why people bookmark this repo
+
+- it is short enough to use during an interview or review
+- it pushes on failure modes, tradeoffs, and operations instead of hand-wavy diagrams
+- it includes templates and worked examples, not just a topic list
+
 ## How to use it
 
 Use this checklist when you need to design or review a service.
@@ -243,6 +249,7 @@ If this repo saves you time, consider:
 
 - starring the repo
 - sharing it with other backend engineers
+- linking it in interview-prep lists or internal onboarding docs
 - supporting ongoing open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
 
 If this checklist helped you structure an interview answer or a design doc, small support is especially appreciated.
