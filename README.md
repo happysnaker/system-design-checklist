@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/github/license/happysnaker/system-design-checklist)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/happysnaker/system-design-checklist?style=social)](https://github.com/happysnaker/system-design-checklist/stargazers)
 
+English | [简体中文](./README.zh-CN.md)
+
 A practical **system design checklist** for backend engineers who want a reusable framework for:
 
 - system design interviews
@@ -12,6 +14,14 @@ A practical **system design checklist** for backend engineers who want a reusabl
 - backend / distributed-systems self-study
 
 This repo is intentionally checklist-first: concise enough to use during design discussions, but detailed enough to expose real engineering tradeoffs.
+
+## What you get
+
+- a reusable checklist for backend / distributed-systems design
+- a lightweight design-doc template you can fill in quickly
+- a short tradeoff sheet for architecture reviews
+- review prompts for interviews and technical design discussions
+- worked examples that show how to apply the checklist in practice
 
 ## Why this repo exists
 
@@ -49,6 +59,20 @@ flowchart TD
     F --> G[Plan reliability and observability]
     G --> H[Review security, rollout, and operations]
 ```
+
+## Common use cases
+
+### System design interviews
+
+Use the checklist to keep your answer structured so you don't forget scale, failure modes, consistency, or operations.
+
+### Architecture reviews
+
+Use the checklist as a review aid when you want to challenge assumptions, surface tradeoffs, and find the parts that will be painful to operate later.
+
+### Service design docs
+
+Use the checklist and template together when writing a lightweight design doc for a new service, feature, or subsystem.
 
 ## The checklist
 
@@ -178,6 +202,15 @@ flowchart TD
 - [`docs/service-design-template.md`](./docs/service-design-template.md) — lightweight design-doc structure
 - [`docs/common-tradeoffs.md`](./docs/common-tradeoffs.md) — common backend tradeoffs worth calling out explicitly
 - [`docs/review-questions.md`](./docs/review-questions.md) — practical review prompts for interviews or architecture reviews
+- [`docs/examples/url-shortener.md`](./docs/examples/url-shortener.md) — worked example for a classic read-heavy interview problem
+- [`docs/examples/notification-service.md`](./docs/examples/notification-service.md) — worked example for an async, fan-out-heavy backend system
+
+## Worked examples
+
+If you want to see the checklist applied end-to-end instead of just reading prompts:
+
+- **[URL shortener example](./docs/examples/url-shortener.md)** — request flow, storage model, hot-key/cache behavior, and operational tradeoffs
+- **[Notification service example](./docs/examples/notification-service.md)** — event ingestion, fan-out workers, retries, preferences, and provider failure handling
 
 ## Who this is for
 
