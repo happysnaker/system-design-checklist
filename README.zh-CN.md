@@ -23,6 +23,7 @@
 - 一份轻量级设计文档模板
 - 一页常见架构 tradeoff 速查
 - 一组适合面试 / 评审的追问问题
+- 一页可以直接放在旁边使用的答题卡 / 评审提示卡
 - 两个 worked example（完整示例）
 
 ## 适合怎么用
@@ -87,6 +88,13 @@
 - **[通知系统](./docs/examples/notification-service.md)**  
   适合看异步队列、扇出、多通道投递、重试、死信队列、用户偏好和第三方通道故障处理。
 
+## 一页答题卡
+
+如果你想要一份更短、更适合在面试或评审时随手查看的版本，可以直接看：
+
+- **[system-design-answer-sheet.md](./docs/system-design-answer-sheet.md)** — 英文版
+- **[system-design-answer-sheet.zh-CN.md](./docs/system-design-answer-sheet.zh-CN.md)** — 简体中文版
+
 ## 这个仓库适合谁
 
 如果你属于下面任意一种，这个仓库会比较有用：
@@ -109,4 +117,6 @@
 - 分享给其他后端工程师
 - 通过支持页支持持续的开源整理与维护：
   [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+
+如果这份清单帮你把系统设计面试答案讲得更清楚，或者帮你少走了一些设计文档的弯路，也欢迎小额支持。
 

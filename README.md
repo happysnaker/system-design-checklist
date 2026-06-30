@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/github/license/happysnaker/system-design-checklist)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/happysnaker/system-design-checklist?style=social)](https://github.com/happysnaker/system-design-checklist/stargazers)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
 
 English | [简体中文](./README.zh-CN.md)
 
@@ -21,6 +22,7 @@ This repo is intentionally checklist-first: concise enough to use during design 
 - a lightweight design-doc template you can fill in quickly
 - a short tradeoff sheet for architecture reviews
 - review prompts for interviews and technical design discussions
+- a one-page answer sheet you can keep beside you during interviews and reviews
 - worked examples that show how to apply the checklist in practice
 
 ## Why this repo exists
@@ -212,6 +214,13 @@ If you want to see the checklist applied end-to-end instead of just reading prom
 - **[URL shortener example](./docs/examples/url-shortener.md)** — request flow, storage model, hot-key/cache behavior, and operational tradeoffs
 - **[Notification service example](./docs/examples/notification-service.md)** — event ingestion, fan-out workers, retries, preferences, and provider failure handling
 
+## One-page answer sheet
+
+If you want a shorter prompt sheet that you can keep open during an interview or design review:
+
+- [`docs/system-design-answer-sheet.md`](./docs/system-design-answer-sheet.md) — compact English version
+- [`docs/system-design-answer-sheet.zh-CN.md`](./docs/system-design-answer-sheet.zh-CN.md) — 简体中文版本
+
 ## Who this is for
 
 This repo is especially useful if you are:
@@ -235,6 +244,8 @@ If this repo saves you time, consider:
 - starring the repo
 - sharing it with other backend engineers
 - supporting ongoing open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+
+If this checklist helped you structure an interview answer or a design doc, small support is especially appreciated.
 
 ## License
 
