@@ -256,6 +256,12 @@ If this checklist helped you structure an interview answer or a design doc, smal
 
 If you want lightweight async feedback on a public GitHub profile, README, design-doc page, or portfolio page, details are also available on the [support page](https://happysnaker.github.io/support/).
 
+Typical support fit:
+
+- **¥9.9** — if one section helped you avoid a weak design answer
+- **¥19.9** — if it helped a full interview loop or architecture review
+- **¥99** — if you want async feedback on your own public design-doc / README / profile packaging
+
 ## License
 
 MIT
