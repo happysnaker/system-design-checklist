@@ -118,7 +118,7 @@
 - 点一个 Star
 - 分享给其他后端工程师
 - 通过支持页支持持续的开源整理与维护：
-  [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+  [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-system-design-checklist)
 
 如果这份清单帮你把系统设计面试答案讲得更清楚，或者帮你少走了一些设计文档的弯路，也欢迎小额支持。
 

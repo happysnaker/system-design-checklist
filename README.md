@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/happysnaker/system-design-checklist)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/happysnaker/system-design-checklist?style=social)](https://github.com/happysnaker/system-design-checklist/stargazers)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-system-design-checklist)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 English | [简体中文](./README.zh-CN.md)
@@ -257,11 +257,11 @@ If this repo saves you time, consider:
 - starring the repo
 - sharing it with other backend engineers
 - linking it in interview-prep lists or internal onboarding docs
-- supporting ongoing open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+- supporting ongoing open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-system-design-checklist)
 
 If this checklist helped you structure an interview answer or a design doc, small support is especially appreciated.
 
-If you want lightweight async feedback on a public GitHub profile, README, design-doc page, or portfolio page, details are also available on the [support page](https://happysnaker.github.io/support/).
+If you want lightweight async feedback on a public GitHub profile, README, design-doc page, or portfolio page, details are also available on the [support page](https://happysnaker.github.io/support/#from-system-design-checklist).
 
 Typical support fit:
 
