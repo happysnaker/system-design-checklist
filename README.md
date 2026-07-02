@@ -23,6 +23,8 @@ This repo is intentionally checklist-first: concise enough to use during design 
 > Want a version you can adapt for your own interviews, RFCs, or architecture reviews? Click **Use this template** on GitHub and turn it into your own working copy.
 >
 > If you want the blunt first-impression version applied to your own GitHub / README / portfolio page, I offer a **¥29.9 quick read** and a **¥99 async pass** on the [review page](https://happysnaker.github.io/review/).
+>
+> If you want to skip the back-and-forth, start from a filled email template: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20system%20design%20page%20or%20repo%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20design%20doc%20/%20README%20/%20GitHub%0APayment%20screenshot%3A%20attached) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20system%20design%20or%20backend%20profile%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20design%20doc%20/%20README%20/%20GitHub%0APayment%20screenshot%3A%20attached)
 
 - Project page: [happysnaker.github.io/system-design-checklist](https://happysnaker.github.io/system-design-checklist/)
 
