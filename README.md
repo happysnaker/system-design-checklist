@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/happysnaker/system-design-checklist)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/happysnaker/system-design-checklist?style=social)](https://github.com/happysnaker/system-design-checklist/stargazers)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 English | [简体中文](./README.zh-CN.md)
 
@@ -15,6 +16,10 @@ A practical **system design checklist** for backend engineers who want a reusabl
 - backend / distributed-systems self-study
 
 This repo is intentionally checklist-first: concise enough to use during design discussions, but detailed enough to expose real engineering tradeoffs.
+
+> Want a version you can adapt for your own interviews, RFCs, or architecture reviews? Click **Use this template** on GitHub and turn it into your own working copy.
+>
+> If you want the blunt first-impression version applied to your own GitHub / README / portfolio page, I offer a **¥29.9 quick read** and a **¥99 async pass** on the [review page](https://happysnaker.github.io/review/).
 
 ## What you get
 
