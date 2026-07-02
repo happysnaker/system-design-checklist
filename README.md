@@ -21,6 +21,8 @@ This repo is intentionally checklist-first: concise enough to use during design 
 >
 > If you want the blunt first-impression version applied to your own GitHub / README / portfolio page, I offer a **¥29.9 quick read** and a **¥99 async pass** on the [review page](https://happysnaker.github.io/review/).
 
+- Project page: [happysnaker.github.io/system-design-checklist](https://happysnaker.github.io/system-design-checklist/)
+
 ## What you get
 
 - a reusable checklist for backend / distributed-systems design

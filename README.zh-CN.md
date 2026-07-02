@@ -19,6 +19,8 @@
 
 ## 这个仓库里有什么
 
+- 项目页： [happysnaker.github.io/system-design-checklist](https://happysnaker.github.io/system-design-checklist/)
+
 - 一份可直接复用的系统设计 checklist
 - 一份轻量级设计文档模板
 - 一页常见架构 tradeoff 速查
