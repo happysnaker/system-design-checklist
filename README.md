@@ -265,6 +265,8 @@ Typical support fit:
 
 - **¥9.9** — if one section helped you avoid a weak design answer
 - **¥19.9** — if it helped a full interview loop or architecture review
+- **best payment note** — `system-design-checklist`
+- **fastest path** — tip directly if the checklist helped; use **¥29.9** / **¥99** only if you want feedback back
 - **¥99** — if you want async feedback on your own public design-doc / README / profile packaging
 
 ## License
