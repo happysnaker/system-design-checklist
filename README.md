@@ -264,6 +264,7 @@ If this repo saves you time, consider:
 - sharing it with other backend engineers
 - linking it in interview-prep lists or internal onboarding docs
 - supporting ongoing open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-system-design-checklist)
+- current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
 - shortest support thread: [If system-design-checklist helped, here is the shortest support path](https://github.com/happysnaker/system-design-checklist/discussions/1)
 
 If this checklist helped you structure an interview answer or a design doc, small support is especially appreciated.
