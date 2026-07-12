@@ -22,12 +22,15 @@ This repo is intentionally checklist-first: concise enough to use during design 
 - Project page: [happysnaker.github.io/system-design-checklist](https://happysnaker.github.io/system-design-checklist/)
 - Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
 - 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
+- Sponsor prospect pipeline: [docs/sponsor-prospect-pipeline.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) — route system-design / architecture-review customers to the right proof, CTA, support note, and guardrail before paying or asking for review
 
 > Want a version you can adapt for your own interviews, RFCs, or architecture reviews? Click **Use this template** on GitHub and turn it into your own working copy.
 >
 > If you want the blunt first-impression version applied to your own GitHub / README / portfolio page, I offer a **¥29.9 quick read** and a **¥99 async pass** on the [review page](https://happysnaker.github.io/review/).
 >
 > If you want to skip the back-and-forth, start from a filled email template: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20system%20design%20page%20or%20repo%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20design%20doc%20/%20README%20/%20GitHub%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20system%20design%20or%20backend%20profile%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20design%20doc%20/%20README%20/%20GitHub%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues)
+>
+> Route system-design / architecture-review customers through the sponsor prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment.
 >
 > Public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
