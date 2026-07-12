@@ -30,7 +30,7 @@ This repo is intentionally checklist-first: concise enough to use during design 
 >
 > If you want to skip the back-and-forth, start from a filled email template: [¥29.9 quick read](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20system%20design%20page%20or%20repo%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20design%20doc%20/%20README%20/%20GitHub%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues) · [¥99 async review](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20system%20design%20or%20backend%20profile%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20design%20doc%20/%20README%20/%20GitHub%0APayment%20screenshot%3A%20attach%20privately%20by%20email%20only%2C%20never%20in%20public%20issues)
 >
-> Route system-design / architecture-review customers through the sponsor prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment.
+> Route system-design / architecture-review customers through the sponsor prospect pipeline first so the ask maps to proof, CTA, support note, and guardrail before payment. Then use the [sponsor conversion scorecard](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) to classify Hot / Warm / Nurture / No-send before asking for support or paid review.
 >
 > Public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
@@ -273,6 +273,7 @@ If this repo saves you time, consider:
 - supporting ongoing open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-system-design-checklist)
 - current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
 - sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies)
+- sponsor conversion scorecard: [Hot / Warm / Nurture / No-send](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) before asking for support or paid review
 - deploy-read sample before paying: [happysnaker.github.io/review/deploy-read-sample](https://happysnaker.github.io/review/deploy-read-sample/)
 - shortest support thread: [If system-design-checklist helped, here is the shortest support path](https://github.com/happysnaker/system-design-checklist/discussions/1)
 
